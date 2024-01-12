@@ -1,4 +1,4 @@
-## Command
+## Command for REST
 
 ``` API_TYPE=rest DB_NAME=book_keeper USER_NAME=postgres PASSWORD='abc@123' go run main.go ```
 
@@ -48,7 +48,7 @@
 
 ![14](https://github.com/komalreddy3/BookAPI_pgsql/assets/82363361/c8d6b3c1-8485-4a9a-a50c-0fe91972859e)
 
-## Command
+## Command for gRPC
 
 
 ``` API_TYPE=grpc DB_NAME=book_keeper USER_NAME=postgres PASSWORD='abc@123' go run main.go ```
